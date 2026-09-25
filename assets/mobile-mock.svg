@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 720" font-family="Cairo,'Segoe UI',Tahoma,sans-serif">
+  <rect width="360" height="720" rx="24" fill="#fbfaf6"/>
+  <!-- status bar -->
+  <text x="28" y="30" font-size="13" font-weight="600" fill="#13283b" font-family="Inter,Cairo,sans-serif">9:41</text>
+  <rect x="298" y="19" width="22" height="11" rx="3" fill="none" stroke="#13283b"/>
+  <rect x="301" y="22" width="13" height="5" rx="1.5" fill="#13283b"/>
+  <rect x="276" y="21" width="14" height="7" rx="2" fill="none" stroke="#13283b"/>
+  <!-- header -->
+  <circle cx="340" cy="62" r="12" fill="#0b7f92"/>
+  <text x="322" y="67" font-size="16" font-weight="700" fill="#13283b" text-anchor="end">عبقري</text>
+  <circle cx="34" cy="62" r="11" fill="#e2f1f2"/>
+  <circle cx="34" cy="64" r="4" fill="#0b7f92"/>
+  <!-- greeting + main KPI -->
+  <text x="332" y="112" font-size="12" fill="#8a9aa8" text-anchor="end">صباح الخير، م. أحمد</text>
+  <rect x="24" y="126" width="312" height="132" rx="16" fill="#ffffff" stroke="#e7e3d9"/>
+  <text x="312" y="156" font-size="13" fill="#66788a" text-anchor="end">داخل نطاق اتفاقية الخدمة</text>
+  <text x="312" y="210" font-size="44" font-weight="700" fill="#13283b" text-anchor="end" font-family="Inter,Cairo,sans-serif">94%</text>
+  <rect x="40" y="180" width="56" height="24" rx="12" fill="#e6f4ec"/>
+  <text x="68" y="196" font-size="11" font-weight="700" fill="#0a7d4f" text-anchor="middle" font-family="Inter,Cairo,sans-serif">+3%</text>
+  <polyline points="44,240 96,226 148,232 200,214 252,222 316,206" fill="none" stroke="#0b7f92" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- tabs -->
+  <rect x="24" y="282" width="312" height="40" rx="20" fill="#f1efe8"/>
+  <rect x="214" y="286" width="110" height="32" rx="16" fill="#ffffff"/>
+  <text x="269" y="308" font-size="13" font-weight="700" fill="#0b7f92" text-anchor="middle">اليوم</text>
+  <text x="159" y="308" font-size="13" fill="#66788a" text-anchor="middle">الأسبوع</text>
+  <text x="69" y="308" font-size="13" fill="#66788a" text-anchor="middle">الشهر</text>
+  <!-- list -->
+  <text x="336" y="358" font-size="14" font-weight="700" fill="#13283b" text-anchor="end">الطلبات النشطة</text>
+  <rect x="24" y="372" width="312" height="74" rx="14" fill="#ffffff" stroke="#e7e3d9"/>
+  <text x="320" y="402" font-size="14" font-weight="600" fill="#13283b" text-anchor="end">صيانة إنارة — حي 7</text>
+  <text x="320" y="422" font-size="11" fill="#8a9aa8" text-anchor="end">منذ 25 دقيقة</text>
+  <rect x="36" y="394" width="78" height="24" rx="12" fill="#fdf3e3"/>
+  <text x="75" y="410" font-size="11" fill="#b45309" text-anchor="middle">قيد المعالجة</text>
+  <rect x="24" y="462" width="312" height="74" rx="14" fill="#ffffff" stroke="#e7e3d9"/>
+  <text x="320" y="492" font-size="14" font-weight="600" fill="#13283b" text-anchor="end">تقرير الأداء الأسبوعي</text>
+  <text x="320" y="512" font-size="11" fill="#8a9aa8" text-anchor="end">يُسلّم الخميس</text>
+  <rect x="36" y="484" width="78" height="24" rx="12" fill="#e2f1f2"/>
+  <text x="75" y="500" font-size="11" fill="#0b7f92" text-anchor="middle">مجدول</text>
+  <rect x="24" y="552" width="312" height="74" rx="14" fill="#ffffff" stroke="#e7e3d9"/>
+  <text x="320" y="582" font-size="14" font-weight="600" fill="#13283b" text-anchor="end">شكوى مياه — رقم 12</text>
+  <text x="320" y="602" font-size="11" fill="#8a9aa8" text-anchor="end">مُصعَّدة للإدارة</text>
+  <rect x="36" y="574" width="78" height="24" rx="12" fill="#fdeaea"/>
+  <text x="75" y="590" font-size="11" fill="#b23b3b" text-anchor="middle">مُصعَّدة</text>
+  <!-- bottom nav -->
+  <line x1="0" y1="640" x2="360" y2="640" stroke="#e7e3d9"/>
+  <rect x="0" y="641" width="360" height="79" fill="#ffffff"/>
+  <circle cx="45" cy="672" r="10" fill="none" stroke="#0b7f92" stroke-width="2"/>
+  <text x="45" y="706" font-size="11" font-weight="700" fill="#0b7f92" text-anchor="middle">الرئيسية</text>
+  <circle cx="135" cy="672" r="10" fill="none" stroke="#a9b6c0" stroke-width="2"/>
+  <text x="135" y="706" font-size="11" fill="#66788a" text-anchor="middle">الطلبات</text>
+  <circle cx="225" cy="672" r="10" fill="none" stroke="#a9b6c0" stroke-width="2"/>
+  <text x="225" y="706" font-size="11" fill="#66788a" text-anchor="middle">التقارير</text>
+  <circle cx="315" cy="672" r="10" fill="none" stroke="#a9b6c0" stroke-width="2"/>
+  <text x="315" y="706" font-size="11" fill="#66788a" text-anchor="middle">الحساب</text>
+</svg>
